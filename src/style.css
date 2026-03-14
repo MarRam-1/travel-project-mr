@@ -54,6 +54,11 @@ body {
   padding: 0 30px 30px;
 }
 
+.card-header img {
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
 .btn {
   display: block;
   color: white;
